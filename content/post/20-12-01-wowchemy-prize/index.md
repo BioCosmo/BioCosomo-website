@@ -2,7 +2,7 @@
 title: Distinguished Lecture Series in Life Sciences 01 | Zhou Ruhong -
   Artificial Intelligence and Biomedical Science.
 date: 2022-05-12T22:00:00.000Z
-featured: true
+featured: false
 image:
   filename: 周如鸿.jpeg
   focal_point: TOP

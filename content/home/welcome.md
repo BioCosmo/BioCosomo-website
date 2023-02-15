@@ -1,6 +1,6 @@
 ---
 widget: hero
-widget_id: BioCosmo
+widget_id: Home
 headless: true
 weight: 0
 title: BioCosmo

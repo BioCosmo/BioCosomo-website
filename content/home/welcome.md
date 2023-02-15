@@ -1,8 +1,8 @@
 ---
 widget: hero
-widget_id: Home
+headless: true # This file represents a page section.
 headless: true
-weight: 10
+weight: 10 # Order that this section will appear.
 title: BioCosmo
 hero_media: welcome.jpg
 design:

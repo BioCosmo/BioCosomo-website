@@ -4,13 +4,13 @@ headless: true # This file represents a page section.
 headless: true
 weight: 10 # Order that this section will appear.
 title: BioCosmo
-hero_media: welcome.jpg
+hero_media: wechatimg294.png
 design:
   columns: "1"
   css_style: null
   css_class: null
   background:
-    image: wechatimg294.png
+    image: beijing.png
 ---
 <br>
 

@@ -2,7 +2,7 @@
 widget: hero
 widget_id: Home
 headless: true
-weight: 0
+weight: 10
 title: BioCosmo
 hero_media: welcome.jpg
 design:

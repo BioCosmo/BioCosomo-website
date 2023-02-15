@@ -4,7 +4,7 @@ title: "Dialogue between Wang Xiaodong and Lin Xianghong: What Choices Should
 subtitle: Co-hosted by Qiyun North America Campus Tour and K2 Venture Partners
 date: 2022-05-12T22:00:00.000Z
 image:
-  focal_point: ""
+  focal_point: TOP
   filename: featured.jpg
 ---
 Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.
